@@ -1,4 +1,2 @@
 class Person
 end
-
-ay
